@@ -15,6 +15,7 @@ This Power BI dashboard provides insights into the **Titanic dataset**, analyzin
 - **DAX** for calculations.
 - **Titanic Dataset** from Kaggle.
 
-📌 Future Improvements
+📌 **Future Improvements**
+
 1.Add interactive filters for deeper analysis.
 2.Implement advanced DAX calculations for better insights.
